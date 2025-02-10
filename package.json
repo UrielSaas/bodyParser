@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "description": "A vulnerable todo demo application",
   "dependencies": {
-    "body-parser": "1.20.3"
+    "body-parser": "1.20.0"
   }
 }
