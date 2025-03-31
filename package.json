@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "description": "A vulnerable todo demo application",
   "dependencies": {
-    "express": "4.20.0"
+    "express": "4.17.3"
   }
 }
