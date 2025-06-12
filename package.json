@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "description": "A vulnerable todo demo application",
   "dependencies": {
-    "client-sqs": "3.450"
+    "client-sqs": "3.429"
   }
 }
